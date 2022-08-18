@@ -1,0 +1,6 @@
+C:\Users\n10074881\source\repos\INDEXING\INDEXING\bin\Debug\INDEXING.exe.config
+C:\Users\n10074881\source\repos\INDEXING\INDEXING\bin\Debug\INDEXING.exe
+C:\Users\n10074881\source\repos\INDEXING\INDEXING\bin\Debug\INDEXING.pdb
+C:\Users\n10074881\source\repos\INDEXING\INDEXING\obj\Debug\INDEXING.csprojAssemblyReference.cache
+C:\Users\n10074881\source\repos\INDEXING\INDEXING\obj\Debug\INDEXING.exe
+C:\Users\n10074881\source\repos\INDEXING\INDEXING\obj\Debug\INDEXING.pdb
